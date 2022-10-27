@@ -1,11 +1,17 @@
 table, th, td {
   border: ridge;
-  margin: 50px;
+  margin: 40px;
   padding: 10px;
 }
 .null {
   background-color: #e5e525;
 }
 .text-field{
-  margin: 50px;
+  margin: 40px;
+}
+
+label.error
+{
+  padding: 10px;
+  color: #cc0033;
 }
