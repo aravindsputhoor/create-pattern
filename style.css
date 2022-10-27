@@ -1,0 +1,11 @@
+table, th, td {
+  border: ridge;
+  margin: 50px;
+  padding: 10px;
+}
+.null {
+  background-color: #e5e525;
+}
+.text-field{
+  margin: 50px;
+}
