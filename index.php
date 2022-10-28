@@ -14,7 +14,7 @@
     <button id="enter">Enter</button><label class="error" for="keyword" id="keyword-label"></label>
     <p>Keyword: <span id="keyword-enter"></span></p>
     <p>Keyword Count: <span id="count">0</span></p>
-    <div id="pattern"></div>
+    <table><tbody id="pattern"></tbody></table>
   </div>
   <script src="assets/main.js"></script>
 </body>
