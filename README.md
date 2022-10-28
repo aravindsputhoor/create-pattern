@@ -1,5 +1,5 @@
 # Task
-![alt text](https://github.com/aravindsputhoor/create-pattern.git/test.png?raw=true)
+![test](https://github.com/aravindsputhoor/create-pattern/blob/master/test.png?raw=true)
 
 # Project setup
 
