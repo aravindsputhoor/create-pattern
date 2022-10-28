@@ -1,3 +1,5 @@
+# Task
+![alt text](https://github.com/aravindsputhoor/create-pattern.git/test.png?raw=true)
 
 # Project setup
 
@@ -8,4 +10,4 @@
 3. Create a sql table 'pattern'
 4. Import database structure from database folder (pattern.sql)
 5. Update database, password and username in env.php file 
-3. Go to http://{your-domain}/create-pattern/
+6. Go to http://{your-domain}/create-pattern/
